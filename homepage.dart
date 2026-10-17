@@ -49,7 +49,7 @@ class _HomepageState extends State<Homepage> {
     "cost":3500,
       },
       {
-        "name": "Kodaikanal",
+        "name": "Kodi",
         "location": "Tamil Nadu",
         "image": "https://images.unsplash.com/photo-1597074866923-dc0589150358",
         "rating": 4.7,
